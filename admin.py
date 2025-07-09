@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Expense
+from .models import NewsletterSubscriber
 
-admin.site.register(Expense)
+admin.site.register(NewsletterSubscriber)
 
